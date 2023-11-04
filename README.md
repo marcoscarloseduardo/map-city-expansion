@@ -58,4 +58,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 [OpenStreetMap contributors](https://www.openstreetmap.org/)
+
 [GLAD Built-up Change Data](https://glad.umd.edu/)
