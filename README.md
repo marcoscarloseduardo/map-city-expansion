@@ -51,7 +51,7 @@ Trenque Lauquen, Buenos Aires Province, Argentina
 You can adapt and modify this script to analyze built-up areas in different cities. Follow the comments and documentation within the script for details on each step.
 
 ## Author
-This script was created by Carlos Marcos based on [Milos Makes Maps](@milos_agathon) tutorial.A function was developed to identify the TIFF file associated with the city of interest, and solutions were added to handle cases where there are multiple polygons in OSM for city identification or other imported sf objects such as multipolygons.
+This script was created by Carlos Marcos based on [Milos Makes Maps](https://twitter.com/milos_agathon) tutorial. A function was developed to identify the TIFF file associated with the city of interest, and solutions were added to handle cases where there are multiple polygons in OSM for city identification or other imported sf objects such as multipolygons.
 
 ## License
 This project is licensed under the MIT License.
